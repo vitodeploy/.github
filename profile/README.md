@@ -8,8 +8,8 @@ https://vitodeploy.com
 
 ## Feedbacks
 
-https://features.vitodeploy.com
+https://vitodeploy.featurebase.app
 
 ## Roadmap
 
-https://vitodeploy.featurebase.app/dashboard/roadmap
+https://vitodeploy.featurebase.app/roadmap
