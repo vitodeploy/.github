@@ -6,6 +6,10 @@ VitoDeploy is a self-hosted web application that helps you to manage your server
 
 https://vitodeploy.com
 
+## Discord
+
+https://discord.gg/uZeeHZZnm5
+
 ## Feedbacks
 
 https://vitodeploy.featurebase.app
