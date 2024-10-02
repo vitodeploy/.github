@@ -2,18 +2,9 @@
 
 VitoDeploy is a self-hosted web application that helps you to manage your servers and deploy your PHP applications into production servers without a hassle.
 
-## Documentation
+## Helpful Links
 
-https://vitodeploy.com
+- [Documentation](https://vitodeploy.com)
+- [Discord](https://discord.gg/uZeeHZZnm5)
+- [Roadmap](https://github.com/orgs/vitodeploy/projects/5)
 
-## Discord
-
-https://discord.gg/uZeeHZZnm5
-
-## Feedbacks
-
-https://vitodeploy.featurebase.app
-
-## Roadmap
-
-https://vitodeploy.featurebase.app/roadmap
